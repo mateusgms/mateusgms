@@ -24,8 +24,8 @@ Senior Software Engineer with 9+ years of experience building high-scale backend
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateusgms&include_all_commits=true&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusgms&layout=compact&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats-mateus-gomes-pereiras-projects.vercel.app/api?username=mateusgms&include_all_commits=true&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-mateus-gomes-pereiras-projects.vercel.app/api/top-langs/?username=mateusgms&layout=compact&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://www.linkedin.com/in/mateusgms/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
